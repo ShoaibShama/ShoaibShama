@@ -1,15 +1,12 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+shoaib+shama;Data Science +Machine Learning;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Shoaib+Shama;Data+Science+and+Machine+Learning+enthusiast;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
-<a href="https://ghulamyazdani.vercel.app/">
-<img src="./images/Header.png" width="100%" alt="banner></a>
-								
 
-</div>
+
 <div align="center">
 Congratulations! You have successfully discovered my Github profile. <br>
 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ghulamyazdani/ghulamyazdani/issues/new"><b>here</b></a><br>
-or <a href="shoiab.200@gmail.com"><b>email</b></a> me.
+or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 
 <br/>
 
@@ -63,9 +60,10 @@ or <a href="shoiab.200@gmail.com"><b>email</b></a> me.
 
 
 
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **ShoaibShama/ShoaibShama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
