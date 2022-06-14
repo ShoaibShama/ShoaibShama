@@ -55,7 +55,7 @@ or <a href="shoiab.200@gmail.com"><b>email</b></a> me.
 </div> 
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=ShoaibShama&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"> <br>
 </div>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=ghulamyazdani&style=flat-square&color=yellow">																																																																																			
