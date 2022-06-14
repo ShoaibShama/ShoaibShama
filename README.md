@@ -5,8 +5,8 @@
 <div align="center">
 Congratulations! You have successfully discovered my Github profile. <br>
 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ghulamyazdani/ghulamyazdani/issues/new"><b>here</b></a><br>
-or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
+Ask me anything <a href="https://github.com/ShoaibShama/ShoaibShama/issues/new"><b>here</b></a><br>
+or <a href="mailto:shoiab.200@gmail.com"><b>email</b></a> me.
 
 <br/>
 
