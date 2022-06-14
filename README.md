@@ -22,6 +22,7 @@ or <a href="shoiab.200@gmail.com"><b>email</b></a> me.
  <a href="https://www.linkedin.com/in/shoaibshama/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/shoaibshama04"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://leetcode.com/shoaibshama/"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+   <a href="https://www.instagram.com/shoaibshama987/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   </div>
   
@@ -60,9 +61,7 @@ or <a href="shoiab.200@gmail.com"><b>email</b></a> me.
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=ShoaibShama&style=flat-square&color=yellow">																																																																																			
 	</div>																		
-[twitter]: https://twitter.com/shoaibshama04
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/shoaibshama/
+
 
 
 
