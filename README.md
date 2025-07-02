@@ -1,9 +1,9 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Shoaib+Shama;DTU+CSE+Software+Engineer+ML/AI+at+Rippling;Data+Science+and+Machine+Learning+enthusiast;Always+Eager+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Shoaib+Shama;+DTU+CSE+Software+Engineer+ML/AI+at+Rippling;+Data+Science+and+Machine+Learning+enthusiast;Always+Eager+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
 
 
 <div align="center">
-Welcome to my GitHub Profile. <br>
+Welcome to my GitHub Profile. <br>zz
 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ShoaibShama/ShoaibShama/issues/new"><b>here</b></a><br>
 or <a href="mailto:shoiab.200@gmail.com"><b>email</b></a> me.
