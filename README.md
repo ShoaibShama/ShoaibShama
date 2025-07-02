@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Shoaib+Shama;B.Tech+DTU+CSE+Software+Engineer+ML/AI+at+Rippling;Data+Science+and+Machine+Learning+enthusiast;Always+Eager+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Shoaib+Shama;DTU+CSE+Software+Engineer+ML/AI+at+Rippling;Data+Science+and+Machine+Learning+enthusiast;Always+Eager+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
 
 
